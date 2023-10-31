@@ -1,2 +1,3 @@
 # tailwind-tut-pj
-This is my first practice project using Tailwind CSS.
+
+This project is my first attempt at using Tailwind CSS. I've been learning from Dave Gray's YouTube videos, which have been a helpful reference for creating this project.
